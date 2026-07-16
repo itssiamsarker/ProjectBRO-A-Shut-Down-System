@@ -1,14 +1,14 @@
-# 🛡️ Project BRO
+# ProjectBRO
 
 ## A Modular Java-Based Shutdown & Threat Simulation Framework
 
-### 📖 Overview
+### Overview
 
 Project BRO is a Java-based Object-Oriented Programming (OOP) project developed for academic purposes. It demonstrates modular system architecture, shutdown management, and threat simulation concepts in a safe and educational environment.
 
 ---
 
-## ✨ Features
+## Features
 
 - Object-Oriented Design
 - Modular Architecture
@@ -19,7 +19,7 @@ Project BRO is a Java-based Object-Oriented Programming (OOP) project developed 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -28,7 +28,7 @@ Project BRO is a Java-based Object-Oriented Programming (OOP) project developed 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ProjectBRO
@@ -42,9 +42,8 @@ ProjectBRO
 └── simulation_payload.txt
 ```
 
----
 
-## 👨‍💻 Developer
+## Developer
 
 **Md. Abdullah Ibn Hasan**
 
